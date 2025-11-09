@@ -1,0 +1,22 @@
+name,age,country_name,main_position,sec_positions,overall_rating,potential,value,wage,physical,value_eur,wage_eur
+Agustín Rossi,28,Argentina,GK,,79,79,€12.5M,€29K,74.0,12500000.0,29000.0
+Guillermo Varela,31,Uruguay,RB,LB,76,76,€5.5M,€35K,73.0,5500000.0,35000.0
+Léo Ortiz,28,Brazil,CB,CDM,80,80,€18M,€47K,77.0,18000000.0,47000.0
+Léo Pereira,28,Brazil,CB,LB,78,78,€12M,€40K,78.0,12000000.0,40000.0
+Ayrton Lucas,27,Brazil,LB,LM,74,74,€4.1M,€30K,77.0,4100000.0,30000.0
+Gonzalo Plata,23,Equador,RW,"ST, LW",77,80,€14.5M,€35K,76.0,14500000.0,35000.0
+Pedro,27,Brazil,ST,,81,81,€28M,€54K,75.0,28000000.0,54000.0
+G. De Arrascaeta,30,Uruguay,CAM,"ST, LM",81,81,€25M,€53K,73.0,25000000.0,53000.0
+Matheus Cunha,23,Brazil,GK,,70,73,€1.7M,€12K,70.0,1700000.0,12000.0
+Cleiton,21,Brazil,CB,,67,74,€1.9M,€16K,70.0,1900000.0,16000.0
+Matías Viña,26,Uruguay,LB,LM,76,77,€8M,€34K,72.0,8000000.0,34000.0
+Evertton Araújo,21,Brazil,CDM,CM,68,74,€1.8M,€16K,71.0,1800000.0,16000.0
+Nico De la Cruz,27,Uruguay,CM,CDM,78,79,€16M,€40K,66.0,16000000.0,40000.0
+Luiz Araújo,28,Brazil,RM,"LM, CAM",78,78,€14M,€42K,74.0,14000000.0,42000.0
+Everton Cebolinha,28,Brazil,LW,LM,75,75,€5.5M,€37K,69.0,5500000.0,37000.0
+Bruno Henrique,33,Brazil,ST,LW,76,76,€4.8M,€40K,79.0,4800000.0,40000.0
+J. Carrascal,26,Colômbia,CAM,"LW, ST",76,78,€9.5M,€36K,72.0,9500000.0,36000.0
+E. Pulgar,30,Chile,CDM,CM,78,78,€12M,€40K,75.0,12000000.0,40000.0
+Allan,27,Brazil,CDM,CM,73,73,€2.9M,€27K,65.0,2900000.0,27000.0
+Juninho,27,Brazil,ST,LW,73,73,€3.3M,€31K,76.0,3300000.0,31000.0
+Wallace Yan,19,Brazil,ST,"RW, LW",69,82,€3.3M,€19K,69.0,3300000.0,19000.0
